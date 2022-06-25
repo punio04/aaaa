@@ -1,0 +1,11 @@
+@media screen and (max-width: 768px){
+img{
+max-width: 100%;
+height: auto;
+width /***/:auto;　
+}
+#container{
+width:100%;
+}
+～以下、画面の横幅が768pxまでの場合のスタイル記入～
+}
